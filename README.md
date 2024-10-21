@@ -83,5 +83,8 @@ Accuracy
 Confusion Matrix
 Precision, Recall, and F1-Score
 ROC-AUC curve for performance evaluation (using One-vs-Rest for multiclass)
+![image](https://github.com/user-attachments/assets/2d482056-59e8-4ab7-a533-583651666535)
 
 Accuracy acheived 96.6%
+
+![image](https://github.com/user-attachments/assets/0d10dd13-f54b-4ae8-9a58-9df8db4f0702)
